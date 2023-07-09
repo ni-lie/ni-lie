@@ -10,6 +10,8 @@
 
 👨🏻‍💻 Python, C, Rust, HTML/CSS, JavaScript, Svelte framework  
 
+🇯🇵 Ryujin Nippon ❤️🏐
+
 📫 Feel free to connect with me on [Twitter](https://twitter.com/cjaycrnl_) and [Instagram](https://www.instagram.com/cjaycoronel/) to chat about coding, data, or anything else that interests you!
 
 💌 You can also reach me through this email address: <cjay.coronel25@gmail.com>
