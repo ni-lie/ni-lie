@@ -1,4 +1,8 @@
-### Hi there, I'm Wil 👋
+<h1 align="center" title="...and I'm happy to see you here :)">👋 Hi there, 𝙸'𝚖 Wil </h1> 
+
+<p align='center>
+  <a href="mailto:cjay.coronel25@gmail.com" title="Email Address"><code>cjay dot coronel25</code></a> 
+</p>
 
 👦 My name is Willie (he/him), but I prefer to go by Wil or Cjay. 😅  
 
