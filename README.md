@@ -1,6 +1,6 @@
 <h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚆𝚒𝚕 </h1> 
 
-<p align='center>
+<p align='center'>
 <a href="mailto:cjay.coronel25@gmail.com" title="Email Address"><code>cjay dot coronel25</code></a> 
 </p>
 
