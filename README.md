@@ -12,7 +12,7 @@
 
 📺 I'm also a big fan of everything Hallyu. Whether it's K-pop or K-drama, I love exploring Korean culture and discovering new artists and shows to enjoy.  
 
-👨🏻‍💻 Python, C, Rust, HTML/CSS, JavaScript, Svelte framework  
+👨🏻‍💻 Python, C, Rust, HTML/CSS, JavaScript, Svelte
 
 🇯🇵 Ryujin Nippon ❤️🏐
 
