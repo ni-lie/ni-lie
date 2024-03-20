@@ -8,7 +8,7 @@
 
 🏬 I am a Computer Science graduate at UP Diliman.  
 
-🔭 I'm a Data Engineer at LENA.  
+🔭 I'm a Data Engineer at Lately, Everything Needs Analytics (LENA).  
 
 📺 I'm also a big fan of everything Hallyu. Whether it's K-pop or K-drama, I love exploring Korean culture and discovering new artists and shows to enjoy.  
 
